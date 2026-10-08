@@ -1,0 +1,22 @@
+# LTspice-generated files (not the human-edited .asc schematics)
+*.raw
+*.log
+*.net
+*.op.raw
+*.asc.bak
+*.asy.bak
+*.tmp
+
+# Python helpers / virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# NOTE: Do NOT ignore *.wav, *.pdf or *.asc: they are project artifacts.
